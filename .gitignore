@@ -1,0 +1,4 @@
+/.idea/
+/venv/
+/djproject/db.sqlite3
+/djproject/key.txt
